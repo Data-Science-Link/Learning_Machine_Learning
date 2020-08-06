@@ -1,0 +1,12 @@
+*.Rhistory
+*.xlsx
+*.zip
+*.ipynb_checkpoints
+*__pycache__
+*.db
+*.sqlite
+*.DS_Store
+*.tar.gz
+*.gz
+*.tar
+*.png
